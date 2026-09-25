@@ -1,0 +1,4 @@
+Logic summary
+●	Center sensor (a3) low → drive straight forward.
+●	Left sensors (a1/a2/a3) low → right motor forward, left motor stopped (turns left).
+●	Right sensors (a3/a4/a5) low → left motor forward, right motor stopped (turns right).
